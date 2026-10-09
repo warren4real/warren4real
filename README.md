@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**warren4real/warren4real** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./contrib-heatmap.svg" width="860" alt="My GitHub contribution calendar, refreshed daily" />
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+<tr>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="ASCII version of my GitHub avatar" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="warren4real — Swift and HTML" /></td>
+</tr>
+</table>
+
+</div>
